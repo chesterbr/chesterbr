@@ -1,4 +1,4 @@
-### Carlos Duarte Do Nascimento (aka [@chesterbr](https://github.com/chesterbr) or just Chester)
+### Carlos Duarte Do Nascimento (aka Chester or [@chesterbr](https://github.com/chesterbr))
 
 - 🤓 &nbsp;Programmer for more than 30 years, still loving it!
 - 🔧 &nbsp;Build and fix stuff to bring people joy (including myself).
