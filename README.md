@@ -6,7 +6,7 @@
 - :octocat:&nbsp;&nbsp;Currently working as a software engineer @ [GitHub](https://github.com) (opinions are my own - and yes, [sometimes](https://www.vox.com/recode/2019/10/9/20906605/github-ice-contract-immigration-ice-dan-friedman) we respectfully diverge)
 - 🖋 &nbsp;[Blog](https://chester.me) occasionally, usually about electronics and hardware hacks, but anything goes
 - 🤷‍♂️ &nbsp;Lacking ideas for a proper README
-- 📺 &nbsp;"Chester" comes from [Beverly Hills Teens](https://en.wikipedia.org/wiki/Beverly_Hills_Teens), a nearly unknown cartoon that had its 15 minutes in Brazil as "Turma da Pesada". It seems that, at the time, I was in my early teens and looked/acted a lot like [Chester McTech](https://www.youtube.com/watch?v=hamimmdHzUo), and it stuck
+- 📺 &nbsp;"Chester" comes from [Chester McTech](https://www.youtube.com/watch?v=hamimmdHzUo), a character in the obscure [Beverly Hills Teens](https://en.wikipedia.org/wiki/Beverly_Hills_Teens) cartoon (which had its 15 minutes in Brazil as "Turma da Pesada")
 - 🇧🇷 &nbsp;Born and raised in Brazil (the "br" in [@chesterbr](https://github.com/chesterbr))
 - 🇨🇦 &nbsp;Citizen and resident of Canada
 <!--
