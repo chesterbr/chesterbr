@@ -3,7 +3,7 @@
 - 🤓 &nbsp;Programmer for more than 30 years, still loving it!
 - 🔧 &nbsp;Build and fix stuff to bring people joy (including myself).
 - 💪 &nbsp;Social justice supporter.
-- :octocat:&nbsp;&nbsp;Currently working as a software engineer @ [GitHub](https://github.com). Love the tool and the company - even if [sometimes](https://www.vox.com/recode/2019/10/9/20906605/github-ice-contract-immigration-ice-dan-friedman) we respectfully diverge. Opinons here are my own.
+- :octocat:&nbsp;&nbsp;Currently working as a software engineer @ [GitHub](https://github.com). Pouring a lot of love in a tool I admire, working alongside a great crowd (even if we [sometimes](https://www.vox.com/recode/2019/10/9/20906605/github-ice-contract-immigration-ice-dan-friedman) respectfully disagree). Opinons here are my own, of course.
 - 🖋 &nbsp;[Blog](https://chester.me) occasionally, usually about electronics and hardware hacks, but anything goes.
 - 🤷‍♂️ &nbsp;Lacking ideas for a proper README.
 - 📺 &nbsp;"Chester" comes from [Chester McTech](https://www.youtube.com/watch?v=hamimmdHzUo), a character in the obscure [Beverly Hills Teens](https://en.wikipedia.org/wiki/Beverly_Hills_Teens) cartoon ("Turma da Pesada" in Brazil)
