@@ -5,10 +5,10 @@
 - 🤓 &nbsp;Programmer
 - 🔧 &nbsp;Build and fix stuff to bring people joy (including myself)
 - 💪 &nbsp;Social justice supporter
-- :octocat: Currently working at [GitHub](https://github.com) _(opinions are my own - and yes, [sometimes](https://www.vox.com/recode/2019/10/9/20906605/github-ice-contract-immigration-ice-dan-friedman) we respectfully diverge)_
+- :octocat: Currently working as a software engineer @ [GitHub](https://github.com) _(opinions are my own - and yes, [sometimes](https://www.vox.com/recode/2019/10/9/20906605/github-ice-contract-immigration-ice-dan-friedman) we respectfully diverge)_
 - 🤷‍♂️ &nbsp;Lacking ideas for a proper README
 - 📺 &nbsp;"Chester" comes from [Beverly Hills Teens](https://en.wikipedia.org/wiki/Beverly_Hills_Teens) (nearly unknown cartoon that had its 15 minutes in Brazil as "Turma da Pesada"). At the time, I was in my early teens and looked/acted a lot like [Chester McTech](https://www.youtube.com/watch?v=hamimmdHzUo))
-
+- 🖋 &nbsp; [Blog](https://chester.me) occasionally, usually about electronics and hardware hacks, but anything goes
 <!--
 **chesterbr/chesterbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
