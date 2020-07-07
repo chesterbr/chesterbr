@@ -1,4 +1,12 @@
-### Hi there 👋
+### Carlos Duarte Do Nascimento (aka @chesterbr or just Chester)
+
+- 🇧🇷 &nbsp;Brazilian
+- 🇨🇦 &nbsp;Canadian
+- 🤓 &nbsp;Programmer
+- 🔧 &nbsp;Build and fix stuff to bring people joy (including myself)
+- 💪 &nbsp;Social justice supporter
+- :octocat: Currently working at [GitHub](https://github.com) _(opinions are my own - and yes, [sometimes](https://www.vox.com/recode/2019/10/9/20906605/github-ice-contract-immigration-ice-dan-friedman) we respectfully diverge)_
+- Lacking ideas for a proper README
 
 <!--
 **chesterbr/chesterbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
