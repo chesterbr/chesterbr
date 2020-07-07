@@ -1,14 +1,14 @@
 ### Carlos Duarte Do Nascimento (aka [@chesterbr](https://github.com/chesterbr) or just Chester)
 
-- 🇧🇷 &nbsp;Brazilian
-- 🇨🇦 &nbsp;Canadian
-- 🤓 &nbsp;Programmer
+- 🤓 &nbsp;Programmer for more than 30 years, still loving it
 - 🔧 &nbsp;Build and fix stuff to bring people joy (including myself)
 - 💪 &nbsp;Social justice supporter
-- :octocat: Currently working as a software engineer @ [GitHub](https://github.com) (opinions are my own - and yes, [sometimes](https://www.vox.com/recode/2019/10/9/20906605/github-ice-contract-immigration-ice-dan-friedman) we respectfully diverge)
+- :octocat:&nbsp;&nbsp;Currently working as a software engineer @ [GitHub](https://github.com) (opinions are my own - and yes, [sometimes](https://www.vox.com/recode/2019/10/9/20906605/github-ice-contract-immigration-ice-dan-friedman) we respectfully diverge)
+- 🖋 &nbsp;[Blog](https://chester.me) occasionally, usually about electronics and hardware hacks, but anything goes
 - 🤷‍♂️ &nbsp;Lacking ideas for a proper README
+- 🇧🇷 &nbsp;Born and raised in Brazil
+- 🇨🇦 &nbsp;Moved to Canada and became a citizen
 - 📺 &nbsp;"Chester" comes from [Beverly Hills Teens](https://en.wikipedia.org/wiki/Beverly_Hills_Teens) (nearly unknown cartoon that had its 15 minutes in Brazil as "Turma da Pesada"). At the time, I was in my early teens and looked/acted a lot like [Chester McTech](https://www.youtube.com/watch?v=hamimmdHzUo))
-- 🖋 &nbsp; [Blog](https://chester.me) occasionally, usually about electronics and hardware hacks, but anything goes
 <!--
 **chesterbr/chesterbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
