@@ -1,6 +1,6 @@
 ### Carlos Duarte Do Nascimento (aka Chester or [@chesterbr](https://github.com/chesterbr))
 
-- 🤓 &nbsp;Programmer for more than 30 years, still loving it!
+- 🤓 &nbsp;Professional programmer for >30 years (and hobbyist for even longer), still loving it!
 - 🔧 &nbsp;Build and fix stuff to bring people joy (including myself).
 - 💪 &nbsp;Social justice supporter.
 - :octocat:&nbsp;&nbsp;Currently working as a software engineer @ [GitHub](https://github.com). Pouring a lot of love in a tool I admire, working alongside a great crowd (even if we [sometimes](https://www.vox.com/recode/2019/10/9/20906605/github-ice-contract-immigration-ice-dan-friedman) respectfully disagree). Opinons here are my own, of course.
