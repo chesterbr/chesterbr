@@ -1,9 +1,11 @@
 ### Carlos Duarte Do Nascimento (aka Chester or [@chesterbr](https://github.com/chesterbr))
 
 - 🤓 &nbsp;Professional programmer for >30 years (and hobbyist for even longer), still loving it!
+- 🏝️ &nbsp;Currently on a personal leave.
 - 🔧 &nbsp;Build and fix stuff to bring people joy (including myself).
 - 💪 &nbsp;Social justice supporter.
-- :octocat:&nbsp;&nbsp;Currently working as a software engineer @ [GitHub](https://github.com). Pouring a lot of love in a tool I admire, working alongside a great crowd (even if we [sometimes](https://www.vox.com/recode/2019/10/9/20906605/github-ice-contract-immigration-ice-dan-friedman) respectfully disagree). Opinons here are my own, of course.
+- 👾 &nbsp;Enjoy playing and building video games (but strongly despise the [toxic corners](https://en.wikipedia.org/wiki/Gamergate_(harassment_campaign)) of the gaming world).
+- 💬 &nbsp;Love comics and sequential art of nearly all types, genres, places and times (same caveat as above to the [💩-heads](https://en.wikipedia.org/wiki/Comicsgate)).
 - 🖋 &nbsp;[Blog](https://chester.me) occasionally, usually about electronics and hardware hacks, but anything goes.
 - 📺 &nbsp;"Chester" comes from [Chester McTech](https://www.youtube.com/watch?v=hamimmdHzUo), a character in the obscure [Beverly Hills Teens](https://en.wikipedia.org/wiki/Beverly_Hills_Teens) cartoon ("Turma da Pesada" in Brazil)
 - 🇧🇷 &nbsp;Born and raised in Brazil (the "br" in [@chesterbr](https://github.com/chesterbr))
