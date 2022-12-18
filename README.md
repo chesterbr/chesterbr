@@ -1,7 +1,8 @@
 ### Carlos Duarte Do Nascimento (aka Chester or [@chesterbr](https://github.com/chesterbr))
 
 - 🤓 &nbsp;Professional programmer for >30 years (and hobbyist for even longer), still loving it!
-- 🏝️ &nbsp;Currently on a personal leave.
+- 👨‍💻 &nbsp;Worked in companies of all sizes and shapes (including GitHub itself, Shopify and my own); details [here](https://www.linkedin.com/in/chesterbr/).
+- 🏝️ &nbsp;Currently on a personal leave 😎.
 - 🔧 &nbsp;Build and fix stuff to bring people joy (including myself).
 - 💪 &nbsp;Social justice supporter.
 - 👾 &nbsp;Enjoy playing and building video games (but strongly despise the [toxic corners](https://en.wikipedia.org/wiki/Gamergate_(harassment_campaign)) of the gaming world).
