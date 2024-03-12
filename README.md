@@ -2,8 +2,9 @@
 
 - 🤓 &nbsp;Professional programmer for >30 years (and hobbyist for even longer), still loving it!
 - 💼 &nbsp;Worked in companies of all sizes and shapes (including GitHub itself, Shopify and my own); details [here](https://www.linkedin.com/in/chesterbr/).
+- 🦈 &nbsp;Just started working at [DigitalOcean](https://www.digitalocean.com/) - in particular with [PaperSpace](https://www.paperspace.com/). More on that 🔜! 
 - 🔧 &nbsp;My passion is to bring people (including myself) joy by building and fixing stuff.
-- 🏝️ &nbsp;Currently on a personal leave: charging my 🔋s, improving [miniTruco](https://play.google.com/store/apps/details?id=me.chester.minitruco), and studying random topics such as [machine learning](https://en.wikipedia.org/wiki/Machine_learning).
+- 🏝️ &nbsp;Recently I've spent some time improving [miniTruco](https://play.google.com/store/apps/details?id=me.chester.minitruco) (a minimalist mobile card game popular in Brazil).
 - 💪 &nbsp;Advocate for social justice, actively dismantling my biases one step at a time.
 - 👾 &nbsp;Enjoy playing and building video games (but strongly despise the [toxic corners](https://en.wikipedia.org/wiki/Gamergate_(harassment_campaign)) of the gaming world).
 - 💬 &nbsp;Love comics and sequential art of nearly all types, genres, places and times (same caveat as above to the [💩-heads](https://en.wikipedia.org/wiki/Comicsgate)).
